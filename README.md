@@ -2,6 +2,12 @@
 
 ## If you want to Visit Live: [Click here..](https://manufacturer-tools-adbae.web.app/)
 
+```
+ Email address(admin): jubair.bgctub.cse@gmail.com / elvi@gmail.com 
+
+ Password: 12345678 (same password for both email)
+```
+
 ## Features of Front-End Technology & Dependencies which i used in this project:
 
 - HTML and CSS
